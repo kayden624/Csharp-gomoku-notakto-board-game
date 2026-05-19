@@ -39,7 +39,9 @@ Move.cs               -> Move handling
 Player.cs             -> Player data and behaviour
 Program.cs            -> Entry point
 Rule.cs               -> Game rule validation
+```
 ---
+
 
 ## How to Run
 
