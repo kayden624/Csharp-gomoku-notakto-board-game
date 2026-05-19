@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|c:\\users\\h1252\\onedrive - queensland university of technology\\ifn563\\hw\\boardgame\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|c:\\users\\h1252\\onedrive - queensland university of technology\\ifn563\\hw\\boardgame\\gamesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|solutionrelative:gamesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|c:\\users\\h1252\\onedrive - queensland university of technology\\ifn563\\hw\\boardgame\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|c:\\users\\h1252\\onedrive - queensland university of technology\\ifn563\\hw\\boardgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|c:\\users\\h1252\\onedrive - queensland university of technology\\ifn563\\hw\\boardgame\\commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|solutionrelative:commandsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|c:\\users\\h1252\\onedrive - queensland university of technology\\ifn563\\hw\\boardgame\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|solutionrelative:rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|c:\\users\\h1252\\onedrive - queensland university of technology\\ifn563\\hw\\boardgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|c:\\users\\h1252\\onedrive - queensland university of technology\\ifn563\\hw\\boardgame\\helpsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|BoardGame.csproj|solutionrelative:helpsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:33:31.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:01:48.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Move.cs",
+              "RelativeDocumentMoniker": "Move.cs",
+              "ToolTip": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Move.cs",
+              "RelativeToolTip": "Move.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:14:42.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameSystem.cs",
+              "DocumentMoniker": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\GameSystem.cs",
+              "RelativeDocumentMoniker": "GameSystem.cs",
+              "ToolTip": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\GameSystem.cs",
+              "RelativeToolTip": "GameSystem.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAuwFwBAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:57:28.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandSystem.cs",
+              "DocumentMoniker": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\CommandSystem.cs",
+              "RelativeDocumentMoniker": "CommandSystem.cs",
+              "ToolTip": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\CommandSystem.cs",
+              "RelativeToolTip": "CommandSystem.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAQwNoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:54:51.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rule.cs",
+              "DocumentMoniker": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Rule.cs",
+              "RelativeDocumentMoniker": "Rule.cs",
+              "ToolTip": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Rule.cs",
+              "RelativeToolTip": "Rule.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:44:30.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:11:04.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelpSystem.cs",
+              "DocumentMoniker": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\HelpSystem.cs",
+              "RelativeDocumentMoniker": "HelpSystem.cs",
+              "ToolTip": "C:\\Users\\h1252\\OneDrive - Queensland University of Technology\\IFN563\\HW\\BoardGame\\HelpSystem.cs",
+              "RelativeToolTip": "HelpSystem.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:55:52.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

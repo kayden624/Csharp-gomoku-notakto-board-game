@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{0DF58D9C-F04D-4A73-9D62-56B5298F82B2}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BoardGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Move.cs">
+    <Files>
+      <File FileName="GameSystem.cs" Line="1" Column="1" />
+      <File FileName="Move.cs" Line="1" Column="1" />
+      <File FileName="CommandSystem.cs" Line="1" Column="1" />
+      <File FileName="Rule.cs" />
+      <File FileName="Player.cs" Line="16" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
